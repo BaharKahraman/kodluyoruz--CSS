@@ -28,4 +28,4 @@ Pull requestler kabul edilir.Büyük değişikler için ,lütfen daha önce neyi
 
 
 
-[Ptika.dev sayfam](https://app.patika.dev/bhrzdmr)
+[Patika.dev sayfam](https://app.patika.dev/bhrzdmr)
