@@ -1,0 +1,18 @@
+
+
+
+
+ .table {
+    display: table;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    border-color: grey;
+    font-variant: normal;
+    width: 90%;
+    height: 70%;
+}
+
+
+
+
