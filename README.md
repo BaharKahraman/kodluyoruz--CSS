@@ -22,7 +22,7 @@ Pull requestler kabul edilir.Büyük değişikler için ,lütfen daha önce neyi
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![](![eski google tasarım](https://user-images.githubusercontent.com/106083195/176246242-384af8b4-df31-4f32-a9f6-f48433899ba8.png)
+(![eski google tasarım](https://user-images.githubusercontent.com/106083195/176246242-384af8b4-df31-4f32-a9f6-f48433899ba8.png)
 
 
 
